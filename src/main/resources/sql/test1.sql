@@ -1,1 +1,1 @@
-SELECT * FROM foo;
+INSERT INTO foo (VALUE) VALUES (:#${body});
